@@ -13,6 +13,11 @@
 - Spring Security
 
 
+#### 🚀 EndPoints
+- /register 
+- /token (login)   
+
+
 If you want to connect with me, you can reach me through linkedin.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahboob-asraf/)
